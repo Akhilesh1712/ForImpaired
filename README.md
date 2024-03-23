@@ -17,30 +17,39 @@ Discription of our project ->
 Comprehensive Accessibility System:
 
   Our project aims to develop a comprehensive accessibility system leveraging cutting-edge technologies to assist individuals   with impairments.
+  
 Multi-sensory Integration:
 
   By integrating image, sound, and gesture recognition, our system provides real-time assistance across multiple modalities.
+  
 Real-time Environmental Monitoring:
 
   It detects sounds and activities in the surroundings instantly, allowing for proactive assistance.
+  
 Adaptive Communication Channels:
 
   Messages are delivered in various formats including text, gesture, voice, and notifications, tailored to individual           preferences.
+  
 Personalized Assistance:
 
    Users receive personalized notifications based on their needs, enhancing independence and safety.
+   
 Home Appliance Recognition:
 
    The system identifies sounds from household appliances, providing alerts and notifications as necessary.
+   
 Instant Sign Language Translation:
 
   Hand gestures are promptly translated into text messages, facilitating communication for individuals using sign language.
+  
 Seamless Device Compatibility:
 
   Notifications are sent to mobile devices and wearables, ensuring accessibility on the go.
+  
 User Interaction:
 
   Users can interact with notifications as needed, further customizing their experience.
+  
 Continuous Monitoring and Support:
 
   The system maintains continuous surveillance, offering timely assistance and support for various daily tasks.
