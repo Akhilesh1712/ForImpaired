@@ -17,7 +17,7 @@ To RUN this Project you have to first clone this Repo then open terminal and run
         
 Discription of our project ->
 
-Comprehensive Accessibility System:
+*Comprehensive Accessibility System:*
 
   Our project aims to develop a comprehensive accessibility system leveraging cutting-edge technologies to assist individuals   with impairments.
   
