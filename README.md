@@ -15,45 +15,45 @@ To RUN this Project you have to first clone this Repo then open terminal and run
         -> then clicking on exlpore the main service page of our website will open and you can explpore it.
 
         
-Discription of our project ->
+**Discription of our project ->**
 
-*Comprehensive Accessibility System:*
+**Comprehensive Accessibility System:**
 
   Our project aims to develop a comprehensive accessibility system leveraging cutting-edge technologies to assist individuals   with impairments.
   
-Multi-sensory Integration:
+**Multi-sensory Integration:**
 
   By integrating image, sound, and gesture recognition, our system provides real-time assistance across multiple modalities.
   
-Real-time Environmental Monitoring:
+**Real-time Environmental Monitoring:**
 
   It detects sounds and activities in the surroundings instantly, allowing for proactive assistance.
   
-Adaptive Communication Channels:
+**Adaptive Communication Channels:**
 
-  Messages are delivered in various formats including text, gesture, voice, and notifications, tailored to individual           preferences.
+  Messages are delivered in various formats including text, gesture, voice, and notifications, tailored to individual preferences.
   
-Personalized Assistance:
+**Personalized Assistance:**
 
    Users receive personalized notifications based on their needs, enhancing independence and safety.
    
-Home Appliance Recognition:
+**Home Appliance Recognition:**
 
    The system identifies sounds from household appliances, providing alerts and notifications as necessary.
    
-Instant Sign Language Translation:
+**Instant Sign Language Translation:**
 
   Hand gestures are promptly translated into text messages, facilitating communication for individuals using sign language.
   
-Seamless Device Compatibility:
+**Seamless Device Compatibility:**
 
   Notifications are sent to mobile devices and wearables, ensuring accessibility on the go.
   
-User Interaction:
+**User Interaction:**
 
   Users can interact with notifications as needed, further customizing their experience.
   
-Continuous Monitoring and Support:
+**Continuous Monitoring and Support:**
 
   The system maintains continuous surveillance, offering timely assistance and support for various daily tasks.
 
