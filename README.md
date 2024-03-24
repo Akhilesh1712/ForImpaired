@@ -2,11 +2,11 @@
 To RUN this Project you have to first clone this Repo then open terminal and run these commands ->
 
                   npm init -y
-                  pip i @tensorflow-models/coco-ssd
-                  pip i @tensorflow/tfjs
-                  pip i bootstrap
-                  pip i express
-                  pip i express-ws
+                  npm i @tensorflow-models/coco-ssd
+                  npm i @tensorflow/tfjs
+                  npm i bootstrap
+                  npm i express
+                  npm i express-ws
                   pip install tensorflow flask flask-socketio
 
 -> Then you have to port the **main-main.html** file which is main page of our project.
