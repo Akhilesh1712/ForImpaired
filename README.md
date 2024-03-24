@@ -12,7 +12,7 @@ To RUN this Project you have to first clone this Repo then open terminal and run
 -> Then you have to port the **main-main.html** file which is main page of our project.
 
         -> this page will have **chatbot** at right bottom and explore button for exploring our project.
-        -> then clicking on **exlpore** the main service page of our website will open and you can explpore it.
+        -> then clicking on **Join-us** the main service page of our website will open and you can explpore it.
 
         
 **Discription of our project ->**
