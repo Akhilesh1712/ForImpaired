@@ -7,6 +7,11 @@ To RUN this Project you have to first clone this Repo then open terminal and run
                   npm i bootstrap
                   npm i express
                   npm i express-ws
+                  npm i mongoose
+                  npm i jsonwebtoken
+                  npm i bcrypt
+                  npm i hbs
+                  npm i dotenv
                   pip install tensorflow flask flask-socketio
 
 -> Then you have to port the **main-main.html** file which is main page of our project.
