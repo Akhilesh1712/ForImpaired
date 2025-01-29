@@ -81,6 +81,7 @@ SpeechRecognition API – Converts speech to text
 1️⃣ Clone the Repository
 
 git clone https://github.com/Akhilesh1712/ForImpaired.git
+
 cd ForImpaired
 
 2️⃣ Backend Setup
